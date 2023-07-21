@@ -1,0 +1,23 @@
+
+public class Trial {
+	public static void main(String[] args) {
+		int num=7;
+		int num2=8;
+		int output;
+		
+		for(num=0;num<3;num++) {
+			output=num+=num2;
+			System.out.println(output);
+		}
+		
+		
+		
+		
+		
+		}
+		
+		
+	
+	
+}
+

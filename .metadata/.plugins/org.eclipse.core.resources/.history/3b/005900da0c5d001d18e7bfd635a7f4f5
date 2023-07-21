@@ -1,0 +1,15 @@
+
+
+public class Trial {
+	public static void main(String[] args) {
+		String try1="Just for,test200,213445";
+		String parts=try1.substring(2, try1.indexOf("")); 
+		System.out.println(parts);
+		
+		}
+		
+		
+	
+	
+}
+

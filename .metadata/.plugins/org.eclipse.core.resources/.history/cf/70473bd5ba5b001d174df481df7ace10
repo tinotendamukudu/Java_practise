@@ -1,0 +1,11 @@
+
+public class Trial {
+	public static void main(String[] args) {
+		//int [] arr= {2,5,6,1,4};
+		String naeme="Tom";
+		int num=200;
+		System.out.println(naeme+num);
+		}
+	}
+
+

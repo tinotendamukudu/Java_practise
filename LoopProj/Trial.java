@@ -1,0 +1,16 @@
+
+
+public class Trial {
+	public static void main(String[] args) {
+		String try1="Just for,test200,213445";
+		String []parts=try1.split(",");
+		
+		System.out.println(parts[0]);
+		
+		}
+		
+		
+	
+	
+}
+

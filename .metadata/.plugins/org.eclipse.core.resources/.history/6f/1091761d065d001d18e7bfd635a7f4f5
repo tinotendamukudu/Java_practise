@@ -1,0 +1,40 @@
+
+public class Trial {
+	public static void main(String[] args) {
+		String name="King";
+		switch(name) {
+		
+		case "Kunta":
+			System.out.println("You are the right candidate for the job");
+			break;
+			
+		case "Kule":
+			System.out.println("You are the right candidate for the job");
+			break;
+			
+		case "Kanyi":
+			System.out.println("You are the right candidate for the job");
+			break;
+			
+		case "King":
+			System.out.println("You are the right candidate for the job");
+			break;
+			
+		case "Kenny":
+			System.out.println("You are the right candidate for the job");
+			break;
+		
+		
+		
+		
+		
+		
+		
+		
+		}
+		
+		
+	
+	}
+}
+

@@ -1,0 +1,21 @@
+
+public class Trial {
+	public static void main(String[] args) {
+		int num=7;
+		int num2=8;
+		int output;
+		output=num+=num2;
+		System.out.println(output);
+		
+		
+		
+		
+		
+		
+		}
+		
+		
+	
+	
+}
+
